@@ -5,8 +5,10 @@ Podržane verzije od 2013 nadalje
 
 Uputstvo za instalaciju:
 
-Bitno: Arhiva se prekopira u bilo koji folder na vašem računaru, nakon čega je neophodno da na .ZIP arhivu kliknete desnim
-tasterom, i u dobijenom Properties dijalogu na General kartici čekirate Unblock. 
+Otvorite link STranslit.zip, i odabarete opciju Download
+
+BITNO!: Download-ovana arhiva se prekopira u bilo koji folder na vašem računaru, nakon čega je neophodno da na .ZIP arhivu kliknete desnim
+tasterom, i u dobijenom Properties dijalogu na General kartici čekirate UNBLOCK. 
 
 Nakon toga arhiva se raspakuje, najjednostavnije u istom folderu (Extract Here...), pokrene setup.exe, i potvrde koraci instalacije.
 Po završetku instalacije, aplikacija se može naći u listi Apps & Features, i po potrebi deinstalirati kroz Add or Remove Programs.

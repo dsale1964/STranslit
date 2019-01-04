@@ -5,10 +5,13 @@ Podržane verzije od 2013 nadalje
 
 Uputstvo:
 
-Sadržaj arhive se prekopira u bilo koji folder na računaru, pokrene setup.exe, i potvrde koraci instalacije
-Aplikacija se može naći u listi Apps & Features, i po potrebi deinstalirati kroz Add or Remove Programs
+Bitno: Arhiva se prekopira u bilo koji folder na vašem računaru, nakon čega je neophodno da na .ZIP arhivu kliknete desnim
+tasterom, i u dobijenom Properties dijalogu na General kartici čekirate Unblock. 
 
-Add-in radi na selekciji teksta, ograničenje po jednoj konverziji je 1000 reči (oko 5-6 stranica teksta).
+Nakon toga arhiva se raspakuje (najjednostavnije u istom folderu Extract Here...), pokrene setup.exe, i potvrde koraci instalacije.
+Aplikacija se može naći u listi Apps & Features, i po potrebi deinstalirati kroz Add or Remove Programs.
+
+Add-in funkcioniše na selekciji teksta, ograničenje po jednoj konverziji je 1000 reči (oko 5-6 stranica teksta).
 Tabele se moraju odvojeno selektovati, i ograničenje je 100 redova  
 
 

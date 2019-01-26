@@ -1,7 +1,7 @@
 # STranslit
 
 Add-in program za Microsoft Word, Konverzija iz Ćirilice u Latinicu i obratno,
-Podržane verzije od 2013 nadalje
+Podržane verzije od 2007 nadalje
 
 Uputstvo za instalaciju:
 

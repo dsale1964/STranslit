@@ -16,7 +16,7 @@ Po završetku instalacije, aplikacija STranslit se može naći u listi Apps & Fe
 U Word-u dobijate na Add-Ins Ribbonu grupu Транслитерација.
 
 Add-in funkcioniše na selekciji teksta, ograničenje po jednoj konverziji je 1000 reči (oko 5-6 stranica teksta).
-Tabele se moraju odvojeno selektovati, i ograničenje je 100 redova.  
+Tabele se moraju odvojeno selektovati, i ograničenje je 100 redova po konverziji.  
 
 
 
